@@ -24,6 +24,10 @@ public class Program {
 		System.out.println(os1);
 		System.out.println(os2);
 		
+		order.setStatus(os2);
+
+		System.out.println(order);
+		
 		sc.close();
 	}
 
