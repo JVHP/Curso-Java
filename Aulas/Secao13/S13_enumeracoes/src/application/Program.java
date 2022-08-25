@@ -17,7 +17,7 @@ public class Program {
 		
 		System.out.println(order);
 		
-		//Conversão de string para enum
+		//Conversï¿½o de string para enum
 		OrderStatus os1 = OrderStatus.DELIVERED;
 		OrderStatus os2 = OrderStatus.valueOf("DELIVERED");
 		
